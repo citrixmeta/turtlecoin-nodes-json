@@ -1,5 +1,12 @@
 {
   "nodes": [
+     {
+      "name": "llamaSoft",
+      "url": "llama.semsoft.ca",
+      "port": 11897,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "Aardvark",
       "url": "sync.tippyturtle.com",
